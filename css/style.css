@@ -1,0 +1,16 @@
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.btn {
+    background-color: #bb91ff;
+}
+
+.btn:hover {
+    background-color: pink;
+}
+
+.img {
+    margin-right: 20px;
+}
