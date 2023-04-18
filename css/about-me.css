@@ -1,0 +1,9 @@
+body {
+    background-color: lightgrey;
+}
+
+.btn {
+    background-color: #bb91ff !important;
+    border-color: #b6e3f1 !important;
+    width: 250px;
+}

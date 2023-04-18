@@ -1,3 +1,7 @@
+body {
+    background-color: lightgrey;
+}
+
 a:hover {
     text-decoration: none;
     color: white;
@@ -14,3 +18,8 @@ a:hover {
 .img {
     margin-right: 20px;
 }
+
+/* .background {
+    background-color: lightgrey;
+    height: 969px;
+} */
