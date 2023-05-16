@@ -1,0 +1,69 @@
+body {
+    background-color: lightgrey;
+}
+
+.btn {
+    background-color: #bb91ff !important;
+    border-color: #b6e3f1 !important;
+    width: 250px;
+}
+
+.project-1 {
+    background-color: darkcyan;
+    text-decoration: none;
+    color: black;
+}
+
+.project-1:hover {
+    color: white;
+}
+
+.project-2 {
+    background-color: rgb(197, 121, 193);
+    text-decoration: none;
+    color: black;
+}
+
+.project-2:hover {
+    color: white;
+}
+
+.project-3 {
+    background-color: rgb(121, 197, 197);
+    text-decoration: none;
+    color: black;
+}
+
+.project-3:hover {
+    color: white;
+}
+
+.project-4 {
+    background-color: rgb(197, 196, 121);
+    text-decoration: none;
+    color: black;
+}
+
+.project-4:hover {
+    color: white;
+}
+
+.project-5 {
+    background-color: rgb(126, 196, 120);
+    text-decoration: none;
+    color: black;
+}
+
+project-5:hover {
+    color: white;
+}
+
+.project-6 {
+    background-color: rgb(130, 197, 121);
+    text-decoration: none;
+    color: black;
+}
+
+project-6:hover {
+    color: white;
+}
